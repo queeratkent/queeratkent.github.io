@@ -1,4 +1,4 @@
-baseURL: "https://queeratkent.github.io"
+baseURL: "https://queeratkent.github.io/"
 locale: "en-us"
 title: "Madison McCartha"
 theme: hugo-profile
